@@ -1,4 +1,9 @@
 = Programming =
-    == Haskell ==
-        === [[Classes]] ===
-
+    == Languages == 
+        == [[Haskell]] ==
+        == C ==
+        == C++ ==
+    == [[Algorithms & Data Structures]] ==
+    == Design Patterns ==
+    
+    

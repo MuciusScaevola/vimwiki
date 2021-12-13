@@ -3,7 +3,7 @@
 
 == Eq ==
 
-{{{class="haskell"
+{{{haskell
 class Eq a where
     (==), (/=) :: a -> a -> Bool
     
@@ -15,7 +15,7 @@ All basic datatypes except for functions and IO.
 
 == Ord ==
 
-{{{class="haskell"
+{{{haskell
 class (Eq a) => Ord a where
     compare                 :: a -> a -> Ordering
     (<), (<=), (>=), (>)    :: a -> a -> Bool

@@ -1,0 +1,6 @@
+= [[Elementary Sorting Methods]] =
+    == Selection Sort ==
+    == Insertion Sort ==
+    == Buuble Sort ==
+    == Shell Sort ==
+= Quick Sort =
